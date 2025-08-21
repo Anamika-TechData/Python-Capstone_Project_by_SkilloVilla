@@ -1,0 +1,15 @@
+ID,Project,Cost,Status
+A001,Project 1,1000000.0,Finished
+A002,Project 2,2000000.0,Ongoing
+A003,Project 3,1500000.0,Finished
+A004,Project 4,500000.0,Ongoing
+A005,Project 5,680000.0,Finished
+A001,Project 6,750000.0,Finished
+A002,Project 7,1200000.0,Ongoing
+A003,Project 8,3000000.0,Finished
+A004,Project 9,500000.0,Failed
+A005,Project 10,1000000.0,Finished
+A001,Project 11,900000.0,Ongoing
+A002,Project 12,4000000.0,Finished
+A003,Project 13,3000000.0,Finished
+A004,Project 14,2000000.0,Finished
