@@ -1,6 +1,6 @@
-# Python-Capstone_Project_by_SkilloVilla
+#  📊 Python-Capstone_Project_by_SkilloVilla
 
-# 📊 Python Capstone Project: Employee, Project & Status Data Analysis
+# Employee, Project & Status Data Analysis
 
 ## 📌 Project Summary
 Analyzed three interrelated datasets (**Employee, Project, Status**) to create accurate, management-ready reports.  
